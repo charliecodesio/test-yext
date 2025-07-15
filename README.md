@@ -47,8 +47,8 @@ This is a simple web application that displays the real-time status of multiple 
 
 ```bash
 
-git clone <your-repo-url>
-cd <your-folder>
+git clone https://github.com/charliecodesio/test-yext>
+cd https://github.com/charliecodesio/test-yext
 
 ```
 
