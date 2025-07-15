@@ -1,0 +1,35 @@
+.service-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-bottom: 3px solid #eaeaea;
+  background: #fff;
+  margin-bottom: 0.5rem;
+  border-radius: 6px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.04);
+}
+
+.service-name {
+  font-weight: 500;
+  color: #333;
+}
+
+.badge {
+  padding: 0.4rem 0.75rem;
+  border-radius: 10px;
+  text-transform: capitalize;
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: bold;
+  min-width: 90px;
+  height: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.green { background-color: #22c55e; }
+.gold { background-color: #eab308; }
+.red { background-color: #ef4444; }
+.gray { background-color: #6b7280; }
